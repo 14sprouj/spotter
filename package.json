@@ -1,0 +1,53 @@
+{
+	"name": "spotter",
+	"private": true,
+	"main": "src/App.tsx",
+	"version": "0.0.1",
+	"type": "module",
+	"scripts": {
+		"expo": "npx expo start",
+		"dev": "vite",
+		"build": "vite build",
+		"lint": "eslint .",
+		"preview": "vite preview"
+	},
+	"dependencies": {
+		"@react-native-async-storage/async-storage": "^2.2.0",
+		"@react-router/node": "^7.8.2",
+		"@react-router/serve": "^7.9.4",
+		"@rneui/themed": "4.0.0-rc.8",
+		"@supabase/supabase-js": "^2.75.0",
+		"colors": "^1.4.0",
+		"dotenv": "^17.2.1",
+		"eslint-plugin-react": "^7.37.5",
+		"expo": "^54.0.13",
+		"isbot": "^5",
+		"rc-slider": "^11.1.8",
+		"react": "^19.1.1",
+		"react-dom": "^19.1.1",
+		"react-native": "^0.82.0",
+		"react-router": "^7.8.2",
+		"react-router-native": "^6.30.0",
+		"typeorm": "^0.3.26",
+		"typescript": "^5.9.2",
+		"winston": "^3.17.0",
+		"winston-daily-rotate-file": "^5.0.0",
+		"xmlhttprequest": "^1.8.0"
+	},
+	"devDependencies": {
+		"@eslint/js": "^9.33.0",
+		"@react-router/dev": "^7.8.2",
+		"@tailwindcss/vite": "^4.1.4",
+		"@types/node": "^22.18.0",
+		"@types/react": "^19.1.10",
+		"@types/react-dom": "^19.1.7",
+		"@vitejs/plugin-react": "^5.0.0",
+		"eslint": "^9.33.0",
+		"eslint-plugin-react-hooks": "^5.2.0",
+		"eslint-plugin-react-refresh": "^0.4.20",
+		"globals": "^16.3.0",
+		"tailwindcss": "^4.1.12",
+		"vite": "^7.1.2",
+		"vite-tsconfig-paths": "^5.1.4"
+	}
+}
