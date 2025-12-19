@@ -20,7 +20,7 @@
 		"colors": "^1.4.0",
 		"dotenv": "^17.2.1",
 		"eslint-plugin-react": "^7.37.5",
-		"expo": "^54.0.13",
+		"expo": "^54.0.14",
 		"isbot": "^5",
 		"rc-slider": "^11.1.8",
 		"react": "^19.1.1",
