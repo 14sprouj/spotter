@@ -18,8 +18,8 @@ importers:
         specifier: ^7.9.4
         version: 7.9.4(react-router@7.8.2(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(typescript@5.9.2)
       '@rneui/themed':
-        specifier: 4.0.0-rc.8
-        version: 4.0.0-rc.8(@rneui/base@4.0.0-rc.7(react-native-safe-area-context@4.14.1(react-native@0.82.0(@babel/core@7.28.3)(@types/react@19.1.12)(react@19.1.1))(react@19.1.1))(react-native-vector-icons@10.3.0)(react-native@0.82.0(@babel/core@7.28.3)(@types/react@19.1.12)(react@19.1.1))(react@19.1.1))
+        specifier: 5.0.0
+        version: 5.0.0(@rneui/base@4.0.0-rc.7(react-native-safe-area-context@4.14.1(react-native@0.82.0(@babel/core@7.28.3)(@types/react@19.1.12)(react@19.1.1))(react@19.1.1))(react-native-vector-icons@10.3.0)(react-native@0.82.0(@babel/core@7.28.3)(@types/react@19.1.12)(react@19.1.1))(react@19.1.1))
       '@supabase/supabase-js':
         specifier: ^2.75.0
         version: 2.75.0
@@ -33,7 +33,7 @@ importers:
         specifier: ^7.37.5
         version: 7.37.5(eslint@9.34.0(jiti@2.5.1))
       expo:
-        specifier: ^54.0.23
+        specifier: ^54.0.14
         version: 54.0.23(@babel/core@7.28.3)(react-native@0.82.0(@babel/core@7.28.3)(@types/react@19.1.12)(react@19.1.1))(react@19.1.1)
       isbot:
         specifier: ^5
@@ -1212,10 +1212,10 @@ packages:
       react-native-safe-area-context: ^3.1.9 || ^4.0.0
       react-native-vector-icons: '>7.0.0'
 
-  '@rneui/themed@4.0.0-rc.8':
-    resolution: {integrity: sha512-8L/XOrL9OK/r+/iBLvx63TbIdZOXF8SIjN9eArMYm6kRbMr8m4BitXllDN8nBhBsSPNYvL6EAgjk+i2MfY4sBA==}
+  '@rneui/themed@5.0.0':
+    resolution: {integrity: sha512-bNmJLOnXqyot7+mN45Y9yNoANfGJAstnkT8J9W8pSMyDMd5yYxDhyYkDfTZOLuBAW7znNm0bPh6nJC64zMpE+Q==}
     peerDependencies:
-      '@rneui/base': 4.0.0-rc.7
+      '@rneui/base': 5.0.0
 
   '@rolldown/pluginutils@1.0.0-beta.34':
     resolution: {integrity: sha512-LyAREkZHP5pMom7c24meKmJCdhf2hEyvam2q0unr3or9ydwDL+DJ8chTF6Av/RFPb3rH8UFBdMzO5MxTZW97oA==}
@@ -6033,7 +6033,7 @@ snapshots:
       - react
       - react-native
 
-  '@rneui/themed@4.0.0-rc.8(@rneui/base@4.0.0-rc.7(react-native-safe-area-context@4.14.1(react-native@0.82.0(@babel/core@7.28.3)(@types/react@19.1.12)(react@19.1.1))(react@19.1.1))(react-native-vector-icons@10.3.0)(react-native@0.82.0(@babel/core@7.28.3)(@types/react@19.1.12)(react@19.1.1))(react@19.1.1))':
+  '@rneui/themed@5.0.0(@rneui/base@4.0.0-rc.7(react-native-safe-area-context@4.14.1(react-native@0.82.0(@babel/core@7.28.3)(@types/react@19.1.12)(react@19.1.1))(react@19.1.1))(react-native-vector-icons@10.3.0)(react-native@0.82.0(@babel/core@7.28.3)(@types/react@19.1.12)(react@19.1.1))(react@19.1.1))':
     dependencies:
       '@rneui/base': 4.0.0-rc.7(react-native-safe-area-context@4.14.1(react-native@0.82.0(@babel/core@7.28.3)(@types/react@19.1.12)(react@19.1.1))(react@19.1.1))(react-native-vector-icons@10.3.0)(react-native@0.82.0(@babel/core@7.28.3)(@types/react@19.1.12)(react@19.1.1))(react@19.1.1)
 
