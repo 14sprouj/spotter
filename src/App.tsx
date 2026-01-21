@@ -1,11 +1,13 @@
+import type { ReactNode } from 'react'
 import { NativeRouter, Navigate, Route, Routes } from 'react-router-native'
+// @ts-ignore: react-native has no declaration file in this environment
 import { View, ActivityIndicator } from 'react-native'
 import { AuthProvider, useAuth } from './context/AuthContext'
-import Home from './screens/Home'
-import Login from './pages/auth/Login'
-import Signup from './pages/auth/Signup'
+import Home from './pages/home'
+import Login from './pages/auth/login'
+import Signup from './pages/auth/signup'
 
-const ProtectedRoute = ({ children }) => {
+const ProtectedRoute = ({ children }: { children: ReactNode }) => {
   const { user, loading } = useAuth()
   if (loading) {
     return (

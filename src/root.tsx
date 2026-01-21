@@ -61,6 +61,12 @@ export function ErrorBoundary({ error }: Route.ErrorBoundaryProps) {
     stack = error.stack;
   }
 
+  if (env.Environment == 'development') {
+	logger.info('Running in development mode');
+	generateSupabaseTypes();
+	setInterval(generateSupabaseTypes, 1000 * 60 * 5); // regenerate every hour
+}
+
   return (
     <main className="pt-16 p-4 container mx-auto">
       <h1>{message}</h1>
