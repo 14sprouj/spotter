@@ -66,10 +66,11 @@ interface TramStopsData {
 
 The London Tramlink network dataset includes 38 stops across zones 3-6:
 - Zone 3: 2 stops
-- Zone 4: 14 stops
-- Zone 5: 21 stops
+- Zone 3-4: 2 stops
+- Zone 4: 11 stops
+- Zone 5: 19 stops
+- Zone 5-6: 3 stops
 - Zone 6: 1 stop
-- Mixed zones (3-4, 5-6): 1 stop
 
 ## Last Updated
 
