@@ -1,141 +1,9 @@
 {
   "stops": [
     {
-      "name": "Wimbledon",
-      "lat": 51.4214,
-      "lng": -0.2064,
-      "zone": "3"
-    },
-    {
-      "name": "Dundonald Road",
-      "lat": 51.4188,
-      "lng": -0.1983,
-      "zone": "3"
-    },
-    {
-      "name": "Merton Park",
-      "lat": 51.4102,
-      "lng": -0.1987,
-      "zone": "3-4"
-    },
-    {
-      "name": "Morden Road",
-      "lat": 51.4048,
-      "lng": -0.1984,
-      "zone": "4"
-    },
-    {
-      "name": "Phipps Bridge",
-      "lat": 51.4002,
-      "lng": -0.1959,
-      "zone": "4"
-    },
-    {
-      "name": "Belgrave Walk",
-      "lat": 51.3975,
-      "lng": -0.1913,
-      "zone": "4"
-    },
-    {
-      "name": "Mitcham",
-      "lat": 51.4021,
-      "lng": -0.1558,
-      "zone": "4"
-    },
-    {
-      "name": "Mitcham Junction",
-      "lat": 51.4012,
-      "lng": -0.1492,
-      "zone": "4"
-    },
-    {
-      "name": "Beddington Lane",
-      "lat": 51.3927,
-      "lng": -0.1409,
-      "zone": "4"
-    },
-    {
-      "name": "Therapia Lane",
-      "lat": 51.3818,
-      "lng": -0.1363,
-      "zone": "5"
-    },
-    {
-      "name": "Waddon Marsh",
-      "lat": 51.3755,
-      "lng": -0.1229,
-      "zone": "5"
-    },
-    {
-      "name": "Ampere Way",
-      "lat": 51.3745,
-      "lng": -0.1102,
-      "zone": "5"
-    },
-    {
-      "name": "Reeves Corner",
-      "lat": 51.3751,
-      "lng": -0.0994,
-      "zone": "5"
-    },
-    {
-      "name": "West Croydon",
-      "lat": 51.3788,
-      "lng": -0.1028,
-      "zone": "5"
-    },
-    {
-      "name": "Wellesley Road",
-      "lat": 51.3768,
-      "lng": -0.0928,
-      "zone": "5"
-    },
-    {
-      "name": "East Croydon",
-      "lat": 51.3754,
-      "lng": -0.0933,
-      "zone": "5"
-    },
-    {
-      "name": "George Street",
-      "lat": 51.3755,
-      "lng": -0.0876,
-      "zone": "5"
-    },
-    {
-      "name": "Church Street",
-      "lat": 51.3759,
-      "lng": -0.0832,
-      "zone": "5"
-    },
-    {
-      "name": "Sandilands",
-      "lat": 51.3759,
-      "lng": -0.0636,
-      "zone": "5"
-    },
-    {
-      "name": "Lebanon Road",
-      "lat": 51.3802,
-      "lng": -0.0558,
-      "zone": "5"
-    },
-    {
-      "name": "Lloyd Park",
-      "lat": 51.3840,
-      "lng": -0.0505,
-      "zone": "5"
-    },
-    {
-      "name": "Coombe Lane",
-      "lat": 51.3887,
-      "lng": -0.0463,
-      "zone": "5"
-    },
-    {
-      "name": "Gravel Hill",
-      "lat": 51.3917,
-      "lng": -0.0383,
+      "name": "Addington Village",
+      "lat": 51.3658,
+      "lng": -0.0352,
       "zone": "5-6"
     },
     {
@@ -145,15 +13,9 @@
       "zone": "5"
     },
     {
-      "name": "Blackhorse Lane",
-      "lat": 51.3828,
-      "lng": -0.0775,
-      "zone": "5"
-    },
-    {
-      "name": "Woodside",
-      "lat": 51.3869,
-      "lng": -0.0739,
+      "name": "Ampere Way",
+      "lat": 51.3745,
+      "lng": -0.1102,
       "zone": "5"
     },
     {
@@ -161,6 +23,102 @@
       "lat": 51.3824,
       "lng": -0.0475,
       "zone": "5"
+    },
+    {
+      "name": "Avenue Road",
+      "lat": 51.3955,
+      "lng": -0.1816,
+      "zone": "4"
+    },
+    {
+      "name": "Beckenham Junction",
+      "lat": 51.4103,
+      "lng": -0.0252,
+      "zone": "4"
+    },
+    {
+      "name": "Beckenham Road",
+      "lat": 51.4001,
+      "lng": -0.0367,
+      "zone": "4"
+    },
+    {
+      "name": "Beddington Lane",
+      "lat": 51.3927,
+      "lng": -0.1409,
+      "zone": "4"
+    },
+    {
+      "name": "Belgrave Walk",
+      "lat": 51.3975,
+      "lng": -0.1913,
+      "zone": "4"
+    },
+    {
+      "name": "Birkbeck",
+      "lat": 51.4061,
+      "lng": -0.1746,
+      "zone": "3-4"
+    },
+    {
+      "name": "Blackhorse Lane",
+      "lat": 51.3828,
+      "lng": -0.0775,
+      "zone": "5"
+    },
+    {
+      "name": "Centrale",
+      "lat": 51.3728,
+      "lng": -0.1002,
+      "zone": "5"
+    },
+    {
+      "name": "Church Street",
+      "lat": 51.3759,
+      "lng": -0.0832,
+      "zone": "5"
+    },
+    {
+      "name": "Coombe Lane",
+      "lat": 51.3887,
+      "lng": -0.0463,
+      "zone": "5"
+    },
+    {
+      "name": "Dundonald Road",
+      "lat": 51.4188,
+      "lng": -0.1983,
+      "zone": "3"
+    },
+    {
+      "name": "East Croydon",
+      "lat": 51.3754,
+      "lng": -0.0933,
+      "zone": "5"
+    },
+    {
+      "name": "Elmers End",
+      "lat": 51.3982,
+      "lng": -0.0505,
+      "zone": "4"
+    },
+    {
+      "name": "Fieldway",
+      "lat": 51.3649,
+      "lng": -0.0284,
+      "zone": "5-6"
+    },
+    {
+      "name": "George Street",
+      "lat": 51.3755,
+      "lng": -0.0876,
+      "zone": "5"
+    },
+    {
+      "name": "Gravel Hill",
+      "lat": 51.3917,
+      "lng": -0.0383,
+      "zone": "5-6"
     },
     {
       "name": "Harrington Road",
@@ -175,69 +133,105 @@
       "zone": "4"
     },
     {
+      "name": "Lebanon Road",
+      "lat": 51.3802,
+      "lng": -0.0558,
+      "zone": "5"
+    },
+    {
+      "name": "Lloyd Park",
+      "lat": 51.3840,
+      "lng": -0.0505,
+      "zone": "5"
+    },
+    {
+      "name": "Merton Park",
+      "lat": 51.4102,
+      "lng": -0.1987,
+      "zone": "3-4"
+    },
+    {
+      "name": "Mitcham",
+      "lat": 51.4021,
+      "lng": -0.1558,
+      "zone": "4"
+    },
+    {
+      "name": "Mitcham Junction",
+      "lat": 51.4012,
+      "lng": -0.1492,
+      "zone": "4"
+    },
+    {
+      "name": "Morden Road",
+      "lat": 51.4048,
+      "lng": -0.1984,
+      "zone": "4"
+    },
+    {
       "name": "New Addington",
       "lat": 51.3549,
       "lng": -0.0214,
       "zone": "6"
     },
     {
-      "name": "Fieldway",
-      "lat": 51.3649,
-      "lng": -0.0284,
-      "zone": "5-6"
+      "name": "Phipps Bridge",
+      "lat": 51.4002,
+      "lng": -0.1959,
+      "zone": "4"
     },
     {
-      "name": "Addington Village",
-      "lat": 51.3658,
-      "lng": -0.0352,
-      "zone": "5-6"
-    },
-    {
-      "name": "Centrale",
-      "lat": 51.3728,
-      "lng": -0.1002,
+      "name": "Reeves Corner",
+      "lat": 51.3751,
+      "lng": -0.0994,
       "zone": "5"
     },
     {
-      "name": "Avenue Road",
-      "lat": 51.3955,
-      "lng": -0.1816,
-      "zone": "4"
+      "name": "Sandilands",
+      "lat": 51.3759,
+      "lng": -0.0636,
+      "zone": "5"
     },
     {
-      "name": "Birkbeck",
-      "lat": 51.4061,
-      "lng": -0.1746,
-      "zone": "3-4"
+      "name": "Therapia Lane",
+      "lat": 51.3818,
+      "lng": -0.1363,
+      "zone": "5"
     },
     {
-      "name": "Beckenham Junction",
-      "lat": 51.4103,
-      "lng": -0.0252,
-      "zone": "4"
+      "name": "Waddon Marsh",
+      "lat": 51.3755,
+      "lng": -0.1229,
+      "zone": "5"
     },
     {
-      "name": "Elmers End",
-      "lat": 51.3982,
-      "lng": -0.0505,
-      "zone": "4"
+      "name": "Wellesley Road",
+      "lat": 51.3768,
+      "lng": -0.0928,
+      "zone": "5"
     },
     {
-      "name": "Beckenham Road",
-      "lat": 51.4001,
-      "lng": -0.0367,
-      "zone": "4"
+      "name": "West Croydon",
+      "lat": 51.3788,
+      "lng": -0.1028,
+      "zone": "5"
     },
     {
-      "name": "Arena",
-      "lat": 51.3824,
-      "lng": -0.0475,
+      "name": "Wimbledon",
+      "lat": 51.4214,
+      "lng": -0.2064,
+      "zone": "3"
+    },
+    {
+      "name": "Woodside",
+      "lat": 51.3869,
+      "lng": -0.0739,
       "zone": "5"
     }
   ],
   "metadata": {
     "source": "London Tramlink Network",
-    "totalStops": 39,
+    "totalStops": 38,
     "operator": "Transport for London (TfL)",
     "network": "Tramlink",
     "description": "London Tramlink serves south London, primarily the London Borough of Croydon, with connections to Wimbledon, Beckenham, Elmers End and New Addington."
